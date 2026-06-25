@@ -282,7 +282,13 @@ Read more: https://computerhistory.org/profile/grace-hopper/
 
 ## License
 
-Refer to the repository license file for usage, distribution, and contribution terms.
+Grace Skill Runtime
+License: MIT
+
+Documentation and Specifications
+License: CC BY 4.0
+
+> Refer to the repository license file for usage, distribution, and contribution terms.
 
 ---
 
