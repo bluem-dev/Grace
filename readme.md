@@ -269,14 +269,40 @@ Grace protects realization.
 
 ---
 
-## 8. Final Statement
+## 8. Why "Grace"?
 
-Ideas create possibilities.
+"Grace" is derived from Grace Hopper, whose work helped transform programming from machine-specific instructions into systems that humans could understand, maintain and evolve.
 
-Knowledge creates understanding.
+Just as Hopper's work helped bridge intention and execution through compilers and structured programming, Grace Realization OS aims to transform cognition into durable reality through governance, closure, artifact identity and continuity.
 
-Artifacts create continuity.
+Read more: https://computerhistory.org/profile/grace-hopper/
 
-Reality creates history.
 
-Grace exists to protect the final transition.
+---
+
+## License
+
+Refer to the repository license file for usage, distribution, and contribution terms.
+
+---
+
+## Status
+
+Current Public Release:
+
+```text
+Grace (Realization Engine) v1.0
+```
+
+This repository contains the public specification and portable skill implementation of the Etta architecture.
+
+---
+
+## Attribution
+
+Grace™ is a research project developed by BDEV as part of an ongoing initiative exploring cognitive architectures and skill-based systems for LLM agents.
+
+© 2026 BDEV. All rights reserved.
+
+---
+
