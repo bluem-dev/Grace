@@ -210,18 +210,16 @@ This directory represents the actual realization system.
 
 ### Specifications
 
-- Artifact Identity Model
-- Architecture Specification
-- Runtime Specification
-- Protocol Specification
-- Contract Specification
-- Error Ontology
-- Governance Core
-- System Behavior Model
-- Implementation Blueprint
-- Execution Graph Engine
-- MCP Integration Layer
-- Etta ↔ Grace Bridge
+- `grace_architecture_spec.md`
+- `grace_runtime_spec.md`
+- `grace_protocol_spec.md`
+- `grace_contract_spec.md`
+- `grace_artifact_identity_spec.md`
+- `grace_governance_core_spec.md`
+- `grace_error_ontology_spec.md`
+- `grace_execution_graph_spec.md`
+
+The System Behavior Model is covered within `grace_architecture_spec.md` (Global System Loop), the Etta ↔ Grace Bridge is covered within `grace_runtime_spec.md` (The Etta → Grace Bridge), and the MCP Integration Layer is covered within `grace_execution_graph_spec.md` (MCP Integration Within the Graph). The Implementation Blueprint is realized directly as working code in `skill/references/implementation.md` rather than as a separate normative document.
 
 ---
 
@@ -283,12 +281,12 @@ Read more: https://computerhistory.org/profile/grace-hopper/
 ## License
 
 Grace Skill Runtime
-License: MIT
+License: MIT — see `LICENSE`
 
 Documentation and Specifications
-License: CC BY 4.0
+License: CC BY 4.0 — see `LICENSE-DOCS`
 
-> Refer to the repository license file for usage, distribution, and contribution terms.
+> Refer to the repository license files for usage, distribution, and contribution terms.
 
 ---
 
@@ -300,7 +298,7 @@ Current Public Release:
 Grace (Realization Engine) v1.0
 ```
 
-This repository contains the public specification and portable skill implementation of the Etta architecture.
+This repository contains the public specification and portable skill implementation of the Grace architecture.
 
 ---
 
